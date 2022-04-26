@@ -2,6 +2,7 @@
 ---
 title: Welcome to Docsy
 linkTitle: Documentation
+tags: ["java", "super"]
 ---
 
 Welcome to the Docsy theme user guide! This guide shows you how to get started creating technical documentation sites using Docsy, including site customization and how to use Docsy's blocks and templates.
